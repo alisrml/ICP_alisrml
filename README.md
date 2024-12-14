@@ -71,4 +71,5 @@ Announce launch with a detailed guide on character creation, gameplay, and block
 
 As a curious child growing up in a small town, I was fascinated by how things worked—tinkering with gadgets, taking apart toys, and dreaming of creating something impactful. My journey led me to study computer engineering, where I discovered my passion for artificial intelligence and blockchain technology. Each project I took on—whether developing AI models or crafting decentralized applications—felt like a step closer to merging creativity with innovation. Today, I aspire to build technology that not only solves problems but also inspires others, transforming ideas into meaningful solutions for a better, more connected future.
 
+![image](https://github.com/user-attachments/assets/bee8c31c-3d04-444f-8309-c40bfa526363)
 
